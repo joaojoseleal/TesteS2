@@ -1,3 +1,4 @@
+package br.com.joaojose.questao9;
 public class BinaryTree {
 
 	private int valor;
